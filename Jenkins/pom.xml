@@ -24,7 +24,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>test.Test</mainClass>
+							<mainClass>jenkinsProj.JenkinsExample</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
